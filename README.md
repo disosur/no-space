@@ -1,5 +1,6 @@
 # no-space
 
+A simple CLI tool written in Go that just replaces the spaces in filenames with underscore
 
 ```bash
 ./main
